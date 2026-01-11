@@ -1,0 +1,37 @@
+{
+  "name": "MyPaychequeApp",
+  "short_name": "MyPaychequeApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#000000",
+  "description": "Calculate and track pay with MyPaychequeApp.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "MyPaychequeApp Dashboard"
+    },
+    {
+      "src": "screenshot.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "MyPaychequeApp Entries"
+    }
+  ]
+}
